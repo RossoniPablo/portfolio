@@ -2,6 +2,8 @@
 
 Portfólio profissional desenvolvido com React, TypeScript, Vite e Tailwind CSS.
 
+Site: [pablo-rossoni.vercel.app](https://pablo-rossoni.vercel.app/)
+
 ## Desenvolvimento
 
 ```bash
