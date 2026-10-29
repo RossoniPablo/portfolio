@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@media (max-width: 680px) {
+  .about-summary {
+    width: calc(100vw - 44px) !important;
+    min-width: 0 !important;
+    max-width: calc(100vw - 44px) !important;
+  }
+
+  .about-summary p {
+    width: 100% !important;
+    max-width: 100% !important;
+    overflow-wrap: anywhere;
+  }
+}
